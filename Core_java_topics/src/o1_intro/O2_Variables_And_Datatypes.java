@@ -1,6 +1,6 @@
 package o1_intro;
 
-public class Variables_And_Datatypes {
+public class O2_Variables_And_Datatypes {
 
 	public static void main(String[] args) 
 	{
@@ -36,7 +36,7 @@ public class Variables_And_Datatypes {
         System.out.println(s1);
         
         // printing each type of variable 
-        Object[] mixedObjects = new Object[]{a,b, ch, i , f, i2, d, result, s1, new Variables_And_Datatypes(), new String[0] , arr};
+        Object[] mixedObjects = new Object[]{a,b, ch, i , f, i2, d, result, s1, new O2_Variables_And_Datatypes(), new String[0] , arr};
 
         for (Object item : mixedObjects) {
             System.out.println(item.getClass().getSimpleName());
