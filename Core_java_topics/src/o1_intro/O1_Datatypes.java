@@ -26,5 +26,4 @@ public class O1_Datatypes {
         System.out.println("hello 'ecoders' welcome to java");
         System.out.println("hello ecoders \'welcome\' to java");
 	}
-
 }
