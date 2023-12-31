@@ -1,4 +1,4 @@
-package static_nonstatic;
+package o3_static_nonstatic;
 
 public class AccessStaticMembers {
 
